@@ -1,1 +1,3 @@
-const plus = (x,y) => x + y;
+function plus(x, y) {
+    return x + y;
+}
